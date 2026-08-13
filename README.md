@@ -1,4 +1,4 @@
-# Luminara
+# Luminara - Sync2
 
 ### Understand the lecture. Learn your way.
 
